@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://Zoiid.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Zoids Devlogs'
 theme = "PaperMod"
 
 [markup]
