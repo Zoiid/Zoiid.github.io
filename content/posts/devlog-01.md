@@ -5,7 +5,7 @@ title = 'Devlog 01'
 +++
 
 ## Camera System
-Ive created a janky (but fucntioning) camera system with shutter speed, aperture, zoom and a focus button. You can snap a picutre and the game will auto generate a folder for your pics! It also displays the current focal lentgh on your screen! Take a look.
+Ive created a janky (but functioning) camera system with shutter speed, aperture, zoom and a focus button. You can snap a picture and the game will auto generate a folder for your pics! It also displays the current focal lentgh on your screen! Take a look.
 
 <video autoplay loop muted playsinline style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <source src="/videos/Movie_002.mp4" type="video/mp4">
