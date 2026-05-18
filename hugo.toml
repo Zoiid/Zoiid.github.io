@@ -7,3 +7,15 @@ theme = "PaperMod"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+    env = "production"
+    description = "Devlogs for my Photography Game"
+    
+    # This turns your giant text list into clean "cards"
+    ShowFullTextContent = false
+
+    # This creates the "Hero" section at the top of your site
+    [params.homeInfoParams]
+        Title = "Cam 9📸"
+        Content = "This is a photography game im building in Unity with playmaker I will try to make something that is a fun and accureate experiance of photography"
